@@ -1,0 +1,20 @@
+
+ul li:first-child a {
+    color:darkviolet;
+}
+ul li:nth-child(2) a{
+    color:red;
+}
+a:link {
+    color:midnightblue;
+    
+}
+a:hover {
+    background:skyblue;
+    padding: 2px;
+    border-radius: 5px;
+    font-weight: bolder;
+}
+a:visited {
+    color:darkblue;
+}

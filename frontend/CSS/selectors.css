@@ -1,0 +1,33 @@
+*{
+    
+    background: url('../img/bulb.jpg');
+}
+p{
+    color:#fff
+}
+p.special{
+    color:#fff
+}
+p span{
+    border:2px solid darksalmon;
+
+}
+span.special{
+    border:2px solid gold;
+}
+div.special{
+    border: 2px solid rgba(128, 0, 128, 0.726);
+    font-weight: bolder;
+}
+a.a{
+    color:greenyellow;
+}
+a[class="x"]{
+    color:palegoldenrod;
+}
+a[data-name="y"]{
+    color:palevioletred;
+}
+a[class="w"]{
+    color:aqua;
+}
