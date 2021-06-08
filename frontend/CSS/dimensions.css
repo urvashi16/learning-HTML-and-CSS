@@ -1,0 +1,22 @@
+#content p {
+    border: 2px solid blue;
+   
+}
+.width-height {
+    width: 200px;
+    height: 250px;
+    background:lemonchiffon;
+}
+.min{
+    min-width:250px;
+    min-height:300px;
+    background:lemonchiffon;
+
+}
+.max{
+    max-width:300px;
+    max-height:500px;
+    background:lemonchiffon;
+    overflow: auto;
+
+}
